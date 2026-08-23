@@ -123,7 +123,7 @@ python 01_Print_1_10.py
 
 ## 📌 Purpose
 
-These programs are part of my **Python & Machine Learning learning journey** learning journey.
+These programs are part of my **Python & Machine Learning journey**. 
 
 The goal is to build a strong foundation in Python by solving small and practical problems before moving toward advanced topics such as **Data Structures, NumPy, Pandas, Machine Learning, and AI**.
 
