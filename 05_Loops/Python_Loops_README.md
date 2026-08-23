@@ -1,4 +1,4 @@
-# 🐍 Python Loops — Practice Programs
+# 🐍 Python Loops - Practice Programs
 
 This folder contains beginner-friendly Python programs based on **loops**.  
 The programs cover `for` loops, `while` loops, loop control statements, patterns, tables, and basic number problems.
@@ -7,52 +7,52 @@ The programs cover `for` loops, `while` loops, loop control statements, patterns
 
 ## 📚 Program Overview
 
-### 01 — Print 1 to 10
+### 01 - Print 1 to 10
 
 **File:** `01_Print_1_10`  
 **Description:** Prints numbers from 1 to 10 using a loop.
 
-### 02 — Multiplication Table
+### 02 - Multiplication Table
 
 **File:** `02_Mul_Table`  
 **Description:** Takes a number from the user and prints its multiplication table.
 
-### 03 — Sum of Numbers
+### 03 - Sum of Numbers
 
 **File:** `03_Sum_Numbers`  
 **Description:** Calculates the sum of numbers from 1 to a given number.
 
-### 04 — Even & Odd
+### 04 - Even & Odd
 
 **File:** `04_Even_Odd`  
 **Description:** Prints or identifies whether numbers are even or odd using a loop.
 
-### 05 — While Loop
+### 05 - While Loop
 
 **File:** `05_While_Loop`  
 **Description:** Demonstrates how to use a `while` loop to repeatedly execute a block of code.
 
-### 06 — Break Loop
+### 06 - Break Loop
 
 **File:** `06_Break_Loop`  
 **Description:** Demonstrates how the `break` statement stops a loop when a condition is satisfied.
 
-### 07 — Continue Loop
+### 07 - Continue Loop
 
 **File:** `07_Continue_Loop`  
 **Description:** Demonstrates how the `continue` statement skips the current iteration and continues the loop.
 
-### 08 — Star Pattern
+### 08 - Star Pattern
 
 **File:** `08_Star_Pattern`  
 **Description:** Creates a simple star pattern using nested loops.
 
-### 09 — Tables 1 to 5
+### 09 - Tables 1 to 5
 
 **File:** `09_Tables_1_5`  
 **Description:** Prints multiplication tables from 1 to 5 using nested loops.
 
-### 10 — Prime Number
+### 10 - Prime Number
 
 **File:** `10_Prime_Num`  
 **Description:** Checks whether a given number is prime using a loop.
@@ -102,26 +102,6 @@ Skips the current iteration and moves to the next iteration.
 
 A loop placed inside another loop, commonly used for patterns and tables.
 
----
-
-## 📂 Folder Structure
-
-```text
-Loops/
-│
-├── 01_Print_1_10
-├── 02_Mul_Table
-├── 03_Sum_Numbers
-├── 04_Even_Odd
-├── 05_While_Loop
-├── 06_Break_Loop
-├── 07_Continue_Loop
-├── 08_Star_Pattern
-├── 09_Tables_1_5
-└── 10_Prime_Num
-```
-
----
 
 ## ▶️ How to Run
 
