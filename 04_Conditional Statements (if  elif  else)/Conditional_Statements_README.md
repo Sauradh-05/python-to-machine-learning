@@ -84,24 +84,7 @@ By completing these programs, you will practice:
 **Type Conversion**  
 `int()`, `float()`
 
----
 
-## 📂 Programs
-
-```text
-Conditional-Statements/
-│
-├── 01_Positive_Negative
-├── 02_Even_Odd
-├── 03_Voting_Check
-├── 04_Greatest_Num
-├── 05_Grade_Calc
-├── 06_Leap_Year
-├── 07_Login
-└── 08_Calculator
-```
-
----
 
 ## ▶️ How to Run
 
@@ -123,7 +106,7 @@ python 01_Positive_Negative.py
 
 ## 📌 Purpose
 
-These programs are part of my **Python & Machine Learning learning journey** learning journey.
+These programs are part of my **Python & Machine Learning journey**.
 
 The goal is to strengthen Python fundamentals through small, practical programs before moving on to more advanced topics such as **Data Structures, NumPy, Pandas, Machine Learning, and AI**.
 
